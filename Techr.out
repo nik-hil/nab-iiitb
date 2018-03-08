@@ -1,0 +1,25 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Ultrasonic sensor interfacing with beagle board}{}% 2
+\BOOKMARK [1][-]{section.3}{Localization Using SLAM}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Algorithm}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Model of the Stick}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Landmark Extraction}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Terminologies}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.5}{Computation of Parameters}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.6}{Final Remarks}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.7}{Implementation}{section.3}% 10
+\BOOKMARK [2][-]{subsection.3.8}{Test Results}{section.3}% 11
+\BOOKMARK [2][-]{subsection.3.9}{Suggestion and Conclusion}{section.3}% 12
+\BOOKMARK [1][-]{section.4}{Object Detection}{}% 13
+\BOOKMARK [2][-]{subsection.4.1}{Litreature Study}{section.4}% 14
+\BOOKMARK [2][-]{subsection.4.2}{Design Plan \046 Flow}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.3}{Contour Based Object Detection}{section.4}% 16
+\BOOKMARK [2][-]{subsection.4.4}{Colour Based Object Detection}{section.4}% 17
+\BOOKMARK [2][-]{subsection.4.5}{Installation of OpenCV libraries on Beagle board}{section.4}% 18
+\BOOKMARK [2][-]{subsection.4.6}{Compiling and running code}{section.4}% 19
+\BOOKMARK [2][-]{subsection.4.7}{Experimental Setup}{section.4}% 20
+\BOOKMARK [2][-]{subsection.4.8}{Results}{section.4}% 21
+\BOOKMARK [2][-]{subsection.4.9}{Suggestion \046 Conclusion}{section.4}% 22
+\BOOKMARK [2][-]{subsection.4.10}{Conclusion and Future Work}{section.4}% 23
+\BOOKMARK [1][-]{section.5}{Appendix A - Device driver source}{}% 24
+\BOOKMARK [1][-]{section.6}{Appendix B - SLAM module source}{}% 25

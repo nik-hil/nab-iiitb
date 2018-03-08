@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}Introduction}{5}{section.1}
+\contentsline {section}{\numberline {2}Ultrasonic sensor interfacing with beagle board}{5}{section.2}
+\contentsline {section}{\numberline {3}Localization Using SLAM}{9}{section.3}
+\contentsline {subsection}{\numberline {3.1}Algorithm}{10}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Model of the Stick}{10}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Landmark Extraction}{10}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Terminologies}{11}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Computation of Parameters}{13}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Final Remarks}{14}{subsection.3.6}
+\contentsline {subsection}{\numberline {3.7}Implementation}{14}{subsection.3.7}
+\contentsline {subsection}{\numberline {3.8}Test Results}{16}{subsection.3.8}
+\contentsline {subsection}{\numberline {3.9}Suggestion and Conclusion}{17}{subsection.3.9}
+\contentsline {section}{\numberline {4}Object Detection}{17}{section.4}
+\contentsline {subsection}{\numberline {4.1}Litreature Study}{17}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Design Plan $\&$ Flow}{18}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.3}Contour Based Object Detection}{18}{subsection.4.3}
+\contentsline {subsection}{\numberline {4.4}Colour Based Object Detection}{19}{subsection.4.4}
+\contentsline {subsection}{\numberline {4.5}Installation of OpenCV libraries on Beagle board}{20}{subsection.4.5}
+\contentsline {subsection}{\numberline {4.6}Compiling and running code}{20}{subsection.4.6}
+\contentsline {subsection}{\numberline {4.7}Experimental Setup}{21}{subsection.4.7}
+\contentsline {subsection}{\numberline {4.8}Results}{21}{subsection.4.8}
+\contentsline {subsection}{\numberline {4.9}Suggestion $\&$ Conclusion}{22}{subsection.4.9}
+\contentsline {subsection}{\numberline {4.10}Conclusion and Future Work}{22}{subsection.4.10}
+\contentsline {section}{\numberline {5}Appendix A - Device driver source}{24}{section.5}
+\contentsline {section}{\numberline {6}Appendix B - SLAM module source}{46}{section.6}
